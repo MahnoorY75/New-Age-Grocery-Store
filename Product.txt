@@ -1,0 +1,48 @@
+Food
+
+Perishable Goods
+Meat
+Chicken
+Beef
+Mutton
+Fish
+Dairy
+Milk
+Eggs
+Yogurt
+Cheese
+Fruit
+Apple
+Banana
+Mango
+Orange
+Watermelon
+Vegetable
+Tomato
+Onion
+Cucumber
+Potatoes
+
+Non-Perishable Goods
+Snacks
+Chocolates
+Chips
+Biscuits
+Spices
+
+Grains
+Lentils
+Wheat
+Flour
+Rice
+Cereal
+
+Personal Hygiene
+Shampoo
+Soap
+Hand Sanitizer
+
+Household Cleaning
+Detergent
+Dish Soap
+Washroom Cleaner
